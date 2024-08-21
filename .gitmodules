@@ -1,0 +1,3 @@
+[submodule "landing-page"]
+	path = landing-page
+	url = https://github.com/oxo4real/landing-page.git
