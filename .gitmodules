@@ -1,3 +1,6 @@
 [submodule "landing-page"]
 	path = landing-page
 	url = https://github.com/oxo4real/landing-page.git
+[submodule "recipes"]
+	path = recipes
+	url = https://github.com/oxo4real/recipes.git
