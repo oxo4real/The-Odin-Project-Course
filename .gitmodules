@@ -4,3 +4,6 @@
 [submodule "recipes"]
 	path = recipes
 	url = https://github.com/oxo4real/recipes.git
+[submodule "Rock-Paper-Scissors"]
+	path = Rock-Paper-Scissors
+	url = https://github.com/oxo4real/Rock-Paper-Scissors.git
