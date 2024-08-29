@@ -1,12 +1,12 @@
-[submodule "introduction/landing-page"]
-	path = introduction/landing-page
-	url = https://github.com/oxo4real/landing-page.git
-[submodule "introduction/recipes"]
-	path = introduction/recipes
-	url = https://github.com/oxo4real/recipes.git
-[submodule "introduction/Rock-Paper-Scissors"]
-	path = introduction/Rock-Paper-Scissors
-	url = https://github.com/oxo4real/Rock-Paper-Scissors.git
 [submodule "introduction/Etch-a-Sketch"]
 	path = introduction/Etch-a-Sketch
 	url = https://github.com/oxo4real/Etch-a-Sketch.git
+[submodule "introduction/Rock-Paper-Scissors"]
+	path = introduction/Rock-Paper-Scissors
+	url = https://github.com/oxo4real/Rock-Paper-Scissors.git
+[submodule "introduction/recipes"]
+	path = introduction/recipes
+	url = https://github.com/oxo4real/recipes.git
+[submodule "introduction/landing-page"]
+	path = introduction/landing-page
+	url = https://github.com/oxo4real/landing-page.git
