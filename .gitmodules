@@ -10,3 +10,6 @@
 [submodule "introduction/landing-page"]
 	path = introduction/landing-page
 	url = https://github.com/oxo4real/landing-page.git
+[submodule "introduction/calculator"]
+	path = introduction/calculator
+	url = https://github.com/oxo4real/calculator.git
